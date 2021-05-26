@@ -1,6 +1,4 @@
-# Data Structures and Algorithm Code
-
-# Data Structures & Algorithm implementation using C#
+## Data Structures & Algorithm implementation using C#
 1. BFS - Breadth First Search
 2. BST - Binary Search Tree
 3. Binary Search
