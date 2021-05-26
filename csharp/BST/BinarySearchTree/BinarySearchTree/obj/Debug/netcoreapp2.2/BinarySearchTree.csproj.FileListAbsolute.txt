@@ -1,0 +1,11 @@
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.deps.json
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.runtimeconfig.json
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.runtimeconfig.dev.json
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.dll
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp2.2\BinarySearchTree.pdb
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.AssemblyInfoInputs.cache
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.AssemblyInfo.cs
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.dll
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.pdb
+D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp2.2\BinarySearchTree.genruntimeconfig.cache
