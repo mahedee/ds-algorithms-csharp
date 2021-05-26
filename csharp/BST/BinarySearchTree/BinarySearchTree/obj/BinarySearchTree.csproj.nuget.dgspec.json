@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Github\\algorithm-csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj": {}
+    "D:\\Project\\Github\\datastructures-algorithms\\csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Github\\algorithm-csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj": {
+    "D:\\Project\\Github\\datastructures-algorithms\\csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Github\\algorithm-csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
+        "projectUniqueName": "D:\\Project\\Github\\datastructures-algorithms\\csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
         "projectName": "BinarySearchTree",
-        "projectPath": "D:\\Project\\Github\\algorithm-csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
+        "projectPath": "D:\\Project\\Github\\datastructures-algorithms\\csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
         "packagesPath": "C:\\Users\\Mahedee\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Github\\algorithm-csharp\\BST\\BinarySearchTree\\BinarySearchTree\\obj\\",
+        "outputPath": "D:\\Project\\Github\\datastructures-algorithms\\csharp\\BST\\BinarySearchTree\\BinarySearchTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mahedee\\AppData\\Roaming\\NuGet\\NuGet.Config",

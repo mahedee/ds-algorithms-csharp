@@ -10,3 +10,15 @@ D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Deb
 D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
 D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
 D:\Project\Github\algorithm-csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.exe
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.deps.json
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.json
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.runtimeconfig.dev.json
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.dll
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\bin\Debug\netcoreapp3.1\BinarySearchTree.pdb
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfoInputs.cache
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.AssemblyInfo.cs
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.dll
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.pdb
+D:\Project\Github\datastructures-algorithms\csharp\BST\BinarySearchTree\BinarySearchTree\obj\Debug\netcoreapp3.1\BinarySearchTree.genruntimeconfig.cache

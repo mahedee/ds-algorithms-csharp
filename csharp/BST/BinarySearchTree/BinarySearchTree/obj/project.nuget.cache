@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dAdDH40nwanWCoNYwu8rJoL/hrHJ4QxgrIuWQ2n7hM4kM1E0tqaySkPfv5pZ/andJ6o4lb7pjcve8MXRsAIWkQ==",
+  "dgSpecHash": "KjSLqCZic2v2FznSaFPinHCNgW2ttfEQpYnhmosrXaZ1W/CybpH6YVYlgluQ1mCtJWtVRgG6AHVUg7SRA/5OZQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Github\\algorithm-csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
+  "projectFilePath": "D:\\Project\\Github\\datastructures-algorithms\\csharp\\BST\\BinarySearchTree\\BinarySearchTree\\BinarySearchTree.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

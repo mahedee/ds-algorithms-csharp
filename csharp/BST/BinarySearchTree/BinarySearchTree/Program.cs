@@ -138,6 +138,37 @@ namespace BinarySearchTree
                 }
             }
 
+            // Todo: Implement PrintPreOrder(Node root)
+
+            // Todo: Implement PrintPostOrder(Node root)
+
+            // Wrapper mehtod for search
+            public Node Search(int item)
+            {
+                return SearchItem(root, item);
+            }
+            public Node SearchItem(Node root, int item)
+            {
+                Node node = root;
+                while(node != null)
+                {
+                    if(node.key == item)
+                    {
+                        return node;
+                    }
+
+                    if(item < node.key)
+                    {
+                        node = node.left;
+                    }
+                    else
+                    {
+                        node = node.right;
+                    }
+                }
+                return node;
+            }
+
         }
 
         //Driver method to test
@@ -161,6 +192,17 @@ namespace BinarySearchTree
             tree.Insert(80);
 
             tree.PrintBST();
+
+            // Search item in the tree
+            Node node = tree.Search(30);
+            if(node != null)
+            {
+                Console.WriteLine("\n {0} is found in the tree", node.key);
+            }
+            else
+            {
+                Console.WriteLine("\n Item not found");
+            }
 
 
             /* Delete in BST
