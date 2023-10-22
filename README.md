@@ -1,4 +1,6 @@
 ## Data Structures & Algorithm implementation using C#
+### Please star ⭐ this GitHub repository if you find it helpful or valuable. Your support is greatly appreciated!
+
 1. BFS - Breadth First Search
 2. BST - Binary Search Tree
 3. Binary Search
@@ -16,5 +18,4 @@
 * Maintain theory in a folder
 * Practice in different languages
 
-## Important links
-* https://visualgo.net/en - Visualising  data structures and algorithms through animation. 
+
